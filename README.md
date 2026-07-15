@@ -2,7 +2,7 @@
 
 This is the cohort's internal documentation. It is the record of who we are and what we are all building.
 
-You are about to make your first commit to a repo you don't own. That's the skill today.
+You are about to open your first pull request against a repo you don't own. That's the skill today.
 
 ---
 
@@ -27,9 +27,15 @@ All in the browser. No terminal needed.
 2. **Add file** → **Create new file**.
 3. Name it `people/theirhandle.md` (your **partner's** handle, not yours).
 4. Paste the template below and fill it in.
-5. Scroll down → **Commit changes** → commit to **`main`**.
+5. Scroll down. Your button says **Propose changes**. Click it, then **Create pull request**.
 
-That's it. It's live.
+### Wait, why does it say "propose changes" and not "commit"?
+
+Because you don't have write access to this repo, and you shouldn't. Nobody hands push access to a stranger.
+
+So GitHub does something helpful: it makes you your own copy of the repo (a **fork**), puts your file there, and offers to send it to me as a **pull request**. That's you asking me to pull your work into my project.
+
+This is how essentially every open source contribution on earth works. Keep clicking, the words are new but the buttons are right. Nico merges them live, and your name lands in the repo.
 
 ## The template
 
